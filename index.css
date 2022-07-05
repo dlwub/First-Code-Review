@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+/*
+#survey-form{
+      
+}*/
+
+form {
+    display: inline-block;
+    max-width: 50%;
+}
